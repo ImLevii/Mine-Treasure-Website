@@ -28,13 +28,13 @@ const index = () => {
 
         <meta
           name="description"
-          content="Mine treasure is a Minecraft datapack which aims to enhance the mining experience. This datapack does so by making treasure randomly spawn while mining."
+          content="HcRaid's datapack aims to enhance the mining experience. Making treasure randomly spawn while mining."
           key="desc"
         />
         <meta property="og:title" content="Mine Treasure" />
         <meta
           property="og:description"
-          content="Mine treasure is a Minecraft datapack which aims to enhance the mining experience."
+          content="HcRaid's Mining datapack which aims to enhance the mining experience."
         />
         <meta property="og:image" content="/images/minetreasuretext.png" />
       </Head>
@@ -51,7 +51,7 @@ const index = () => {
                   <p className="max-w-[90%] sm:max-w-[60%] pt-3">
                     Ever gotten tired of mining endlessly with no goal in mind?
                     No motivation to go strip-mining? No means to go on this
-                    repetitive task for ores? Well, this data pack aims to
+                    repetitive task for ores? Well, HcRaid's data pack aims to
                     change exactly that.
                   </p>
                   <button
