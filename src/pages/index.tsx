@@ -68,7 +68,7 @@ const index = () => {
                   </button>
                   <br />
                   <Link
-                    href="/download"
+                    href="https://hcraid.net"
                     className="mt-5 md:mt-10 inline-block px-10 text-white py-3 rounded-full bg-blue-500"
                   >
                     Start playing{" "}
