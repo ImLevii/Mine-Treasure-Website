@@ -47,20 +47,6 @@ const Header = () => {
               Discord
             </Link>
           </li>
-          <li className="h-full flex items-center">
-            <Link
-              className="inline-block w-full p-1 md:p-3 text-center md:text-left md:px-10 bg-blue-500 rounded-full"
-              href="/download"
-              passHref
-            >
-              <FontAwesomeIcon
-                height={20}
-                className="mr-1 inline-block"
-                icon={faDownload}
-              />
-              Download
-            </Link>
-          </li>
         </ul>
       </nav>
     </header>
